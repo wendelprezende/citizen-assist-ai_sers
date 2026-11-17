@@ -1,0 +1,72 @@
+{
+    "tarifa": {
+        "distribuidora": "Enel SP",
+        "classe": "B1 residencial, modalidade convencional",
+        "kwh_sem_tributos": 0.78938,
+        "unidade": "R$/kWh (TUSD 0,47242 + TE 0,31696, sem ICMS, PIS/Cofins e iluminação pública)",
+        "vigencia": "2026-07-04 a 2027-07-03",
+        "norma": "Resolução Homologatória ANEEL nº 3.596/2026",
+        "tipo": "oficial",
+        "fonte": "https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html",
+        "consultado_em": "2026-11-16"
+    },
+    "bandeiras": {
+        "unidade": "R$ por 100 kWh consumidos",
+        "valores": {"verde": 0.0, "amarela": 1.885, "vermelha_1": 4.463, "vermelha_2": 7.877},
+        "vigente": "verde",
+        "referencia": "novembro de 2026",
+        "tipo": "oficial",
+        "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+        "consultado_em": "2026-11-16"
+    },
+    "emissao": {
+        "fator_kg_co2_por_kwh": 0.0247,
+        "descricao": "Média dos fatores mensais do SIN de jan a abr de 2025 (23,7; 24,8; 21,5 e 28,9 kg CO2/MWh)",
+        "tipo": "oficial (MCTI), média calculada pelo grupo",
+        "fonte": "https://canalsolar.com.br/emissoes-de-co%e2%82%82-geracao-eletrica-mcti/",
+        "consultado_em": "2026-11-16"
+    },
+    "equipamentos": [
+        {"id": "chuveiro", "nome": "Chuveiro elétrico", "potencia_w": 3500, "horas_dia": null, "dias_mes": 30, "kwh_mes_fixo": null,
+         "observacao": "Tempo calculado a partir dos minutos por banho e das pessoas informadas"},
+        {"id": "geladeira_1p", "nome": "Geladeira de 1 porta", "potencia_w": 90, "horas_dia": 0, "dias_mes": 30, "kwh_mes_fixo": 30},
+        {"id": "geladeira_2p", "nome": "Geladeira de 2 portas", "potencia_w": 130, "horas_dia": 0, "dias_mes": 30, "kwh_mes_fixo": 55},
+        {"id": "ar_condicionado", "nome": "Ar-condicionado 7.500 BTU", "potencia_w": 1000, "horas_dia": 8, "dias_mes": 30, "kwh_mes_fixo": null, "fator_uso": 0.5,
+         "observacao": "A tabela informa 120 kWh/mês: 1000 W x 8 h x 30 dias x 0,5 (o compressor não funciona o tempo todo). O fator 0,5 foi deduzido pelo grupo a partir da tabela"},
+        {"id": "ventilador", "nome": "Ventilador de teto", "potencia_w": 120, "horas_dia": 8, "dias_mes": 30, "kwh_mes_fixo": null},
+        {"id": "computador", "nome": "Computador", "potencia_w": 120, "horas_dia": 3, "dias_mes": 30, "kwh_mes_fixo": null},
+        {"id": "tv", "nome": "Televisão em cores 29 polegadas", "potencia_w": 110, "horas_dia": 5, "dias_mes": 30, "kwh_mes_fixo": null},
+        {"id": "ferro", "nome": "Ferro elétrico automático", "potencia_w": 1000, "horas_dia": 1, "dias_mes": 12, "kwh_mes_fixo": null},
+        {"id": "lavadora", "nome": "Lavadora de roupas", "potencia_w": 500, "horas_dia": 1, "dias_mes": 12, "kwh_mes_fixo": null}
+    ],
+    "equipamentos_origem": {
+        "descricao": "Potências, horas e dias de uso médios da tabela de consumo de aparelhos elétricos (fonte original citada na tabela: Eletrobras)",
+        "tipo": "estimado (valores médios de tabela; a potência real está na etiqueta do aparelho)",
+        "fonte": "https://igce.rc.unesp.br/Home/ComissaoSupervisora-old/ConservacaodeEnergiaCICE/tabela_consumo.pdf",
+        "consultado_em": "2026-11-16"
+    },
+    "hipoteses": {
+        "minutos_banho_por_pessoa": {"valor": 10, "tipo": "estimado", "justificativa": "A tabela da Eletrobras usa 40 min por dia para o domicílio; dividido por 4 pessoas dá 10 min por pessoa (premissa do grupo)"},
+        "reducao_tempo_banho": {"valor": 0.25, "tipo": "hipótese do cenário", "justificativa": "Banho 25% mais curto (10 para 7,5 min). Valor escolhido pelo grupo; o usuário pode alterar"},
+        "reducao_standby": {"valor": 0.15, "tipo": "limite superior da fonte", "justificativa": "O stand-by responde por até 15% do consumo do aparelho ligado (Cemig)", "fonte": "https://www.agenciaminas.mg.gov.br/news/pdf/120522.pdf"},
+        "aparelhos_standby": ["tv", "computador"],
+        "parcela_ar_trocada_por_ventilador": {"valor": 0.5, "tipo": "hipótese do cenário", "justificativa": "Metade das horas de ar-condicionado trocada por ventilador de teto (valor escolhido pelo grupo)"}
+    },
+    "assinatura_solar": {
+        "desconto_minimo": 0.10,
+        "desconto_maximo": 0.20,
+        "tipo": "estimado (faixa divulgada pela imprensa; varia por empresa e contrato)",
+        "fontes": [
+            "https://www.infomoney.com.br/?p=2072005",
+            "https://eixos.com.br/?p=71033"
+        ],
+        "conta_minima_citada_reais": [200, 300],
+        "fontes_conta_minima": [
+            "https://euqueroinvestir.com/educacao-financeira/energia-por-assinatura-conta-mais-barata",
+            "https://www.agrolink.com.br/noticias/como-funciona-a-assinatura-de-energia-solar_453010.html"
+        ],
+        "risco_regulatorio": "A ANEEL discute regras mais rígidas para a geração compartilhada (energia por assinatura).",
+        "fonte_risco": "https://canalsolar.com.br/aneel-mudancas-regras-geracao-compartilhada/",
+        "consultado_em": "2026-11-16"
+    }
+}

@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "categoria": "Identidade e conta digital",
+        "titulo": "Criar conta gov.br",
+        "palavras_chave": [
+            "cadastro gov",
+            "criar conta gov",
+            "abrir conta gov"
+        ],
+        "resposta": "Você pode criar sua conta pelo app GOV.BR ou pelo site gov.br.",
+        "documentos": [
+            "CPF"
+        ],
+        "onde": "Site do gov.br ou aplicativo GOV.BR",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br#etapas-para-a-realizacao-deste-servico",
+        "verificado_em": "2026-11-06"
+    },
+    {
+        "id": 2,
+        "categoria": "Identidade e conta digital",
+        "titulo": "Aumentar o nível da conta gov.br",
+        "palavras_chave": [
+            "nivel gov",
+            "aumentar nivel",
+            "aumentar o nivel"
+        ],
+        "resposta": "Você pode aumentar o nível da sua conta pelo app GOV.BR. Também pode entrar na sua conta pelo site gov.br e aumentar o nível em Selos de Confiabilidade.",
+        "documentos": [
+            "Conta gov.br já criada"
+        ],
+        "onde": "Site do gov.br ou aplicativo GOV.BR",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+        "verificado_em": "2026-11-06"
+    },
+    {
+        "id": 3,
+        "categoria": "Identidade e conta digital",
+        "titulo": "Emitir a Carteira de Identidade Nacional (CIN)",
+        "palavras_chave": [
+            "carteira de identidade nacional",
+            "emitir cin",
+            "tirar cin",
+            "cin",
+            "novo rg",
+            "rg"
+        ],
+        "resposta": "Agende o atendimento pelo app, site, autoatendimento ou WhatsApp do Poupatempo. Depois, compareça no dia, local e horário marcados. Vale para o estado de São Paulo.",
+        "documentos": [
+            "Certidão de nascimento",
+            "CPF"
+        ],
+        "onde": "Poupatempo (estado de São Paulo)",
+        "fonte": "https://www.poupatempo.sp.gov.br/carta/D97C3844-A2D9-4C9E-B364-CB4FEB26A1FB",
+        "verificado_em": "2026-11-06"
+    },
+    {
+        "id": 4,
+        "categoria": "Identidade e conta digital",
+        "titulo": "Obter o passaporte",
+        "palavras_chave": [
+            "passaporte",
+            "tirar passaporte",
+            "emitir passaporte",
+            "documento de viagem"
+        ],
+        "resposta": "Preencha e envie o formulário eletrônico pelo site da Polícia Federal e pague a taxa de emissão. Depois, agende o atendimento presencial e compareça no dia, local e horário marcados.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)"
+        ],
+        "onde": "Posto de Emissão de Passaporte",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+        "verificado_em": "2026-11-06"
+    },
+    {
+        "id": 5,
+        "categoria": "Deveres cívicos",
+        "titulo": "Alistamento militar obrigatório",
+        "palavras_chave": [
+            "alistamento militar",
+            "alistar",
+            "servico militar",
+            "exercito"
+        ],
+        "resposta": "O alistamento militar é obrigatório para brasileiros do sexo masculino. O prazo vai de 1º de janeiro a 30 de junho do ano em que a pessoa completa 18 anos. Pode ser feito no site oficial ou presencialmente, na Junta de Serviço Militar mais próxima.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)",
+            "Comprovante de residência ou declaração de residência assinada"
+        ],
+        "onde": "Portal oficial de Alistamento Militar ou Junta de Serviço Militar",
+        "fonte": "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+        "verificado_em": "2026-11-07"
+    },
+    {
+        "id": 6,
+        "categoria": "Deveres cívicos",
+        "titulo": "Alistamento militar: perdi o prazo",
+        "palavras_chave": [
+            "perdi o prazo",
+            "fora do prazo",
+            "atrasei",
+            "atrasado"
+        ],
+        "resposta": "Compareça pessoalmente a uma Junta de Serviço Militar e faça o alistamento.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)",
+            "Comprovante de residência ou declaração de residência assinada",
+            "Certidão de nascimento"
+        ],
+        "onde": "Junta de Serviço Militar",
+        "fonte": "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+        "verificado_em": "2026-11-07"
+    },
+    {
+        "id": 7,
+        "categoria": "Deveres cívicos",
+        "titulo": "Tirar o título de eleitor",
+        "palavras_chave": [
+            "titulo de eleitor",
+            "titulo eleitoral",
+            "tirar titulo",
+            "votar"
+        ],
+        "resposta": "Vá a um Cartório Eleitoral ou posto de atendimento, ou use o formulário disponível na página do TRE-SP. Vale para o estado de São Paulo.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)",
+            "Comprovante de residência ou declaração de residência assinada",
+            "Comprovante de quitação militar (para homens)"
+        ],
+        "onde": "Cartório Eleitoral, posto de atendimento ou site do TRE-SP (estado de São Paulo)",
+        "fonte": "https://www.tre-sp.jus.br/servicos-eleitorais/carta-de-servicos/primeiro-titulo-de-eleitor",
+        "verificado_em": "2026-11-07"
+    },
+    {
+        "id": 8,
+        "categoria": "Trabalho, mobilidade e finanças",
+        "titulo": "Acessar a Carteira de Trabalho Digital (CTPS)",
+        "palavras_chave": [
+            "carteira de trabalho",
+            "ctps",
+            "carteira digital"
+        ],
+        "resposta": "Instale o app Carteira de Trabalho Digital no dispositivo móvel e entre com a conta gov.br.",
+        "documentos": [
+            "CPF"
+        ],
+        "onde": "Loja de aplicativos do smartphone",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/Passo_a_Passo_CTPSDigital_APP_e_WEB.pdf",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 9,
+        "categoria": "Trabalho, mobilidade e finanças",
+        "titulo": "Tirar a primeira CNH",
+        "palavras_chave": [
+            "carteira de motorista",
+            "cnh",
+            "habilitacao",
+            "dirigir"
+        ],
+        "resposta": "Instale o app CNH do Brasil no seu dispositivo móvel, inicie o curso teórico e siga os próximos passos.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)"
+        ],
+        "onde": "Loja de aplicativos do smartphone",
+        "fonte": "https://www.gov.br/transportes/pt-br/cnh-do-brasil",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 10,
+        "categoria": "Trabalho, mobilidade e finanças",
+        "titulo": "Abrir uma conta bancária própria",
+        "palavras_chave": [
+            "conta no banco",
+            "conta bancaria",
+            "banco",
+            "conta corrente"
+        ],
+        "resposta": "Vá em uma agência ou instale o app do banco escolhido no seu dispositivo móvel, faça seu cadastro e aguarde aprovação.",
+        "documentos": [
+            "CPF",
+            "Documento de identificação (RG ou CIN)",
+            "Comprovante de residência ou declaração de residência assinada"
+        ],
+        "onde": "Agência ou loja de aplicativos do smartphone",
+        "fonte": "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-necessario-para-abrir-uma-conta-de-depositos",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 11,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Entender a tarifa e a conta de luz",
+        "palavras_chave": [
+            "conta de luz",
+            "tarifa de energia",
+            "valor do kwh",
+            "tarifa enel"
+        ],
+        "resposta": "A tarifa residencial da Enel SP soma a TUSD (uso da rede) e a TE (energia). Desde 04/07/2026, são R$ 472,42 + R$ 316,96 por MWh, ou cerca de R$ 0,789 por kWh. Para estimar a conta, multiplique os kWh do mês por esse valor; impostos, como o ICMS, e a taxa de iluminação pública são cobrados além disso. Para calcular o seu caso, use a opção 5 do menu.",
+        "documentos": [
+            "Conta de luz (o consumo em kWh aparece na descrição do faturamento)"
+        ],
+        "onde": "Site da Enel São Paulo (Tarifa de Energia Elétrica) e a sua conta de luz",
+        "fonte": "https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 12,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Entender as bandeiras tarifárias",
+        "palavras_chave": [
+            "bandeira",
+            "bandeira tarifaria",
+            "bandeira verde",
+            "bandeira amarela",
+            "bandeira vermelha"
+        ],
+        "resposta": "As bandeiras (verde, amarela e vermelha) mostram, mês a mês, se a energia está mais cara ou mais barata de gerar no país. Em novembro de 2026 a bandeira é verde; confira o mês atual no site da Enel. A bandeira não é multa e não depende do seu consumo individual.",
+        "documentos": [
+            "Nenhum documento é necessário"
+        ],
+        "onde": "Site da Enel São Paulo (Bandeira Tarifária) e site da ANEEL",
+        "fonte": "https://www.enel.com.br/pt-saopaulo/Corporativo_e_Governo/Bandeira_Tarifaria.html",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 13,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Economizar energia no chuveiro elétrico",
+        "palavras_chave": [
+            "chuveiro",
+            "banho",
+            "ducha"
+        ],
+        "resposta": "O consumo depende do tempo de uso e da potência, e o chuveiro está entre os aparelhos que mais gastam. Reduza o tempo de banho e, se possível, coloque o seletor de temperatura na posição verão, que reduz a potência em 30%, segundo a Cemig. Para estimar a economia na sua casa, use a opção 5 do menu.",
+        "documentos": [
+            "Nenhum documento é necessário"
+        ],
+        "onde": "Em casa, no seletor de temperatura do chuveiro",
+        "fonte": "https://www.agenciaminas.mg.gov.br/news/pdf/120522.pdf",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 14,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Economizar com stand-by, geladeira e ar-condicionado",
+        "palavras_chave": [
+            "stand by",
+            "standby",
+            "stand-by",
+            "ar condicionado",
+            "geladeira"
+        ],
+        "resposta": "Aparelhos em stand-by consomem até 15% do que consomem ligados: retire da tomada o que não usa. Na geladeira, evite abrir e fechar a porta com frequência e não guarde alimentos ainda quentes. O ar-condicionado deve ser usado só quando ventilação natural e ventiladores não bastam, com temperatura de 23 °C ou 24 °C, e prefira aparelhos com selo Procel ou etiqueta A do Inmetro.",
+        "documentos": [
+            "Nenhum documento é necessário"
+        ],
+        "onde": "Em casa; ao comprar, procure o selo Procel ou a etiqueta A do Inmetro",
+        "fonte": "https://www.agenciaminas.mg.gov.br/news/pdf/120522.pdf",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 15,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Energia solar por assinatura (geração compartilhada)",
+        "palavras_chave": [
+            "energia solar",
+            "assinatura de energia",
+            "geracao compartilhada",
+            "placa solar"
+        ],
+        "resposta": "A geração compartilhada reúne consumidores, por meio de consórcio, cooperativa, condomínio ou outra associação civil, para usar energia gerada em sistemas de micro ou minigeração (Lei 14.300/2022). Reportagens citam descontos de 10% a 20% e conta mínima de R$ 200 a R$ 300 em várias empresas, mas isso varia por contrato, e a ANEEL discute regras mais rígidas. Compare propostas e leia o contrato antes de assinar.",
+        "documentos": [
+            "Nenhum documento específico (varia por empresa; confira o contrato)"
+        ],
+        "onde": "Empresas de geração compartilhada (compare mais de uma proposta)",
+        "fonte": "https://www2.camara.leg.br/legin/fed/lei/2022/lei-14300-6-janeiro-2022-792217-publicacaooriginal-164335-pl.html",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 16,
+        "categoria": "Energia e sustentabilidade",
+        "titulo": "Tarifa Social de Energia Elétrica (baixa renda)",
+        "palavras_chave": [
+            "tarifa social",
+            "baixa renda",
+            "cadunico",
+            "desconto na conta",
+            "desconto na conta de luz"
+        ],
+        "resposta": "A Tarifa Social é um benefício do Governo Federal para famílias de baixa renda inscritas no CadÚnico. Quem consome até 80 kWh por mês tem 100% de desconto na tarifa de energia. O titular da conta da Enel precisa ser o beneficiário, e o CadÚnico deve estar atualizado no mesmo município da conta. Se ainda não estiver inscrito, procure um CRAS.",
+        "documentos": [
+            "Conta de energia da Enel",
+            "CPF, RG ou documento oficial com foto",
+            "NIS ou número do benefício"
+        ],
+        "onde": "CRAS (para o CadÚnico) e canais de atendimento da Enel São Paulo",
+        "fonte": "https://www.enel.com.br/pt-saopaulo/Para_Voce/Tarifa_Social_Baixa_Renda.html",
+        "verificado_em": "2026-11-17"
+    }
+]
