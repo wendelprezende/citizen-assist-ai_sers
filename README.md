@@ -140,25 +140,13 @@ Os valores em reais são calculados **sem impostos**. Tributos e iluminação p�
 - Vale só para a Enel SP, classe residencial convencional, e para a vigência da tarifa indicada.
 - Nenhuma economia é garantida.
 
-## 11. Testes com usuários
+## 11. Contribuição de cada integrante
 
-Testes feitos com 3 pessoas de fora do grupo, sem coleta de dados pessoais.
+- **Wendel Rezende:** assistente.py, main.py, base_conhecimento.py, data/ e README.md
+- **Daniel Alejandro:** Roteiro do vídeo, orientacao.py e validar.py
+- **Arthur Araújo:** teste_energia.py e energia.py
 
-| Teste | O que a pessoa fez | Dificuldade observada | Ajuste feito |
-|---|---|---|---|
-| 1 | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| 2 | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| 3 | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-
-Os testes automáticos (`teste_energia.py` e `validar.py`) terminam com "Resultado: tudo certo" e "Base válida".
-
-## 12. Contribuição de cada integrante
-
-- **Wendel Rezende:** [PREENCHER]
-- **Daniel Alejandro:** [PREENCHER]
-- **Arthur Araújo:** [PREENCHER]
-
-## 13. Referências
+## 12. Referências
 
 - Enel SP — Tarifas: https://www.enel.com.br/pt-saopaulo/Para_Voce/tarifa-energia-eletrica.html
 - Enel SP — Bandeira tarifária: https://www.enel.com.br/pt-saopaulo/Corporativo_e_Governo/Bandeira_Tarifaria.html
@@ -171,6 +159,6 @@ Os testes automáticos (`teste_energia.py` e `validar.py`) terminam com "Resulta
 - Assinatura solar: https://www.infomoney.com.br/?p=2072005 · https://eixos.com.br/?p=71033 · https://euqueroinvestir.com/educacao-financeira/energia-por-assinatura-conta-mais-barata · https://www.agrolink.com.br/noticias/como-funciona-a-assinatura-de-energia-solar_453010.html
 - Regras da geração compartilhada: https://canalsolar.com.br/aneel-mudancas-regras-geracao-compartilhada/
 
-## 14. Entrega
+## 13. Entrega
 
 - Vídeo (YouTube, não listado, até 3 min): [PREENCHER LINK]
