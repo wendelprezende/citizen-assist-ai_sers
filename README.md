@@ -161,4 +161,4 @@ Os valores em reais são calculados **sem impostos**. Tributos e iluminação p�
 
 ## 13. Entrega
 
-- Vídeo (YouTube, não listado, até 3 min): [PREENCHER LINK]
+- Vídeo (YouTube, não listado, até 3 min): https://youtu.be/GCGIqloKG8I
